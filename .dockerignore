@@ -1,0 +1,6 @@
+send_alert.sh
+response.txt
+package-lock.json
+.env
+.git
+.gitignore

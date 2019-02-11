@@ -1,0 +1,25 @@
+{
+  "name": "twitch-dev-alerts-action",
+  "version": "1.0.0",
+  "description": "👀",
+  "main": "send_alert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noopkat/twitch-dev-alerts-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noopkat/twitch-dev-alerts-action/issues"
+  },
+  "homepage": "https://github.com/noopkat/twitch-dev-alerts-action#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "jsonwebtoken": "^8.4.0",
+    "request": "^2.88.0"
+  }
+}
